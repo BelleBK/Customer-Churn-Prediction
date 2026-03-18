@@ -1,6 +1,5 @@
 # Customer-Churn-Prediction
-This project reproduces a research paper on customer churn prediction using machine learning techniques.
-
+This project reproduces the main methodology of the selected IJCA paper by using the same Telco Customer Churn dataset.
 ## Dataset
 Telco Customer Churn dataset from Kaggle.
 Link : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
