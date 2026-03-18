@@ -2,10 +2,12 @@
 This project reproduces the main methodology of the selected IJCA paper by using the same Telco Customer Churn dataset.
 ## Dataset
 Telco Customer Churn dataset from Kaggle.
+
 Link : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Paper work
 Churn Prediction using Various Machine Learning Algorithms in Telecom Sector
+
 Link : https://www.ijcaonline.org/archives/volume184/number36/verma-2022-ijca-922462.pdf
 
 ## Models Used
